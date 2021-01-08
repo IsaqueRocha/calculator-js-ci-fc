@@ -1,0 +1,16 @@
+{
+  "name": "calculator-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --runInBand --coverage"
+  },
+  "keywords": [],
+  "author": "Isaque Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "sonar-scanner": "^3.1.0"
+  }
+}
